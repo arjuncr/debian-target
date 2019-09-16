@@ -1,3 +1,0 @@
-ls boot/
-ls
-exit
